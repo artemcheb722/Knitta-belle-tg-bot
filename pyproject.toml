@@ -8,6 +8,9 @@ dependencies = [
     "aiogram>=3.28.2",
     "alembic>=1.18.4",
     "asyncpg>=0.31.0",
+    "black>=26.5.1",
+    "flake8>=7.3.0",
+    "isort>=8.0.1",
     "pydantic-settings>=2.14.1",
     "sqlalchemy>=2.0.50",
 ]
